@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user select hero by index</description>
+   <name>select-hero</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8076d39-8706-4687-b929-7e91415e5e21</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1bb6ad71-4d20-44e2-abfc-a4b3828f6445</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ca'</defaultValue>
+      <description></description>
+      <id>1bb6ad71-4d20-44e2-abfc-a4b3828f6445</id>
+      <masked>false</masked>
+      <name>heroes</name>
+   </variable>
+</TestCaseEntity>

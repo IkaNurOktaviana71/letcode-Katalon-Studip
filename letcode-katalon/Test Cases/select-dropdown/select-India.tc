@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select India using value &amp; print the selected value</description>
+   <name>select-India</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4939910e-f6ce-4286-89a4-5a21b2ecf5fe</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9a4dc1f7-f556-430a-80f8-2932ebd3f3a2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'India'</defaultValue>
+      <description></description>
+      <id>9a4dc1f7-f556-430a-80f8-2932ebd3f3a2</id>
+      <masked>false</masked>
+      <name>country</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user select one of the fruit in the dropdown</description>
+   <name>select-fruit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66cb3640-54f7-4930-a368-8a2a6fcbc0b8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2a371994-772a-406e-8e2c-a4f7633f77a5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>2a371994-772a-406e-8e2c-a4f7633f77a5</id>
+      <masked>false</masked>
+      <name>fruit</name>
+   </variable>
+</TestCaseEntity>

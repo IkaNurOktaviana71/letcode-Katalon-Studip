@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>option_Wonder Woman</name>
+   <tag></tag>
+   <elementGuidId>db9e9cae-2176-4774-899a-c0b7dce8bb15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//option[@value='ww']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>option[value=&quot;ww&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>c0eddf3e-24c2-43e7-b159-80e8c26e2b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>ww</value>
+      <webElementGuid>ea4ce83c-ad7c-4d33-b495-e74d637cb03c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wonder Woman</value>
+      <webElementGuid>dd53faf0-0e5d-4b57-903b-e8e863543b13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;superheros&quot;)/option[28]</value>
+      <webElementGuid>d0a89f7b-23e0-4bfa-8015-f47f3755befd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//option[@value='ww']</value>
+      <webElementGuid>677d72f0-6d5e-47f1-9def-d6a831a5b2b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//select[@id='superheros']/option[28]</value>
+      <webElementGuid>dcedc55d-6cc8-4acf-9996-2530d46bda16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Select your super hero', &quot;'&quot;, 's')])[1]/following::option[28]</value>
+      <webElementGuid>cdb99664-66c2-480d-b10e-869a75d10e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select the apple using visible text'])[1]/following::option[34]</value>
+      <webElementGuid>86951f09-a9b5-4021-9e93-efd1d38d7f77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select the last programming language and print all the options'])[1]/preceding::option[2]</value>
+      <webElementGuid>f1edb7b5-28d3-43a5-8db4-2f5797861c0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select India using value &amp; print the selected value'])[1]/preceding::option[7]</value>
+      <webElementGuid>a229844e-184d-4d84-a8ba-76217ac33ed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wonder Woman']/parent::*</value>
+      <webElementGuid>1dec347a-ea01-4d71-9542-3ecbc1fbf2a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//option[28]</value>
+      <webElementGuid>156d2932-6639-44cf-a8da-2394fb7471ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//option[(text() = 'Wonder Woman' or . = 'Wonder Woman')]</value>
+      <webElementGuid>e6345e62-5d29-41af-9f68-f5d785c0574a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
