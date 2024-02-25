@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Confirm button is disabled</description>
+   <name>Button-disable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9921db6-9702-4d68-b4c0-f2b2beef9930</testCaseGuid>
+</TestCaseEntity>

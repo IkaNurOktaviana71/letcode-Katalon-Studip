@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get the X &amp; Y co-ordinates</description>
+   <name>button-location</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18fcd1f0-09bf-4f7e-94e1-cab200c2a5e4</testCaseGuid>
+</TestCaseEntity>

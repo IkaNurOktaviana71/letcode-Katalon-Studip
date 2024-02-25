@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_How tall  fat I am</name>
+   <tag></tag>
+   <elementGuidId>f83670db-9b6f-46a6-a7c9-23471741833c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#property</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='property']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c0e83aa6-1f35-4dfc-aab1-82d6ddb3432b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>property</value>
+      <webElementGuid>536c9cd6-6688-4be8-9633-43e6fa95a7f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button is-success</value>
+      <webElementGuid>d1fec8f1-468e-4875-9d8d-9946f0e91cd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>How tall &amp; fat I am?</value>
+      <webElementGuid>69736c01-b589-4622-b7cb-b385385dabaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;property&quot;)</value>
+      <webElementGuid>cfd892ca-5f6a-480a-a67c-a48e496f05b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='property']</value>
+      <webElementGuid>f424fbd1-b4ad-4752-a366-721cc8a7c96b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find the height &amp; width of the button'])[1]/following::button[1]</value>
+      <webElementGuid>a6c439ca-946f-4ab5-80a7-a21f419a16b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What is my color?'])[1]/following::button[1]</value>
+      <webElementGuid>6ff86e99-7d1e-4f2b-a78c-3c189b87e303</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm button is disabled'])[1]/preceding::button[1]</value>
+      <webElementGuid>1350b174-c8ee-4d89-8bd8-ff4462bfb011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disabled'])[1]/preceding::button[1]</value>
+      <webElementGuid>d78a645e-5281-44f8-b508-7b1047595655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='How tall &amp; fat I am?']/parent::*</value>
+      <webElementGuid>e6c41ab2-bed7-4d85-b9c2-5cf75c9fd424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button</value>
+      <webElementGuid>58a9475c-a82f-4f54-a1a1-829fbc5418cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'property' and (text() = 'How tall &amp; fat I am?' or . = 'How tall &amp; fat I am?')]</value>
+      <webElementGuid>1702d5e6-aedc-426b-bf9a-5b3f457fbb06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

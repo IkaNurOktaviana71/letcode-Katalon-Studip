@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_What is my color</name>
+   <tag></tag>
+   <elementGuidId>6a2eaee6-6e67-4578-8439-f332efbb492d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#color</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='color']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3fe19549-9db2-4cba-8625-9e62db13653a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>color</value>
+      <webElementGuid>dd127f37-ad87-4878-b654-00fe3e2a7250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button is-primary</value>
+      <webElementGuid>4f5ffd7a-a736-4a74-b001-c210811aff3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>What is my color?</value>
+      <webElementGuid>4b3ef251-b933-4951-9258-9eb6d35491b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;color&quot;)</value>
+      <webElementGuid>dc8b86e3-bf49-4bb3-b7da-9cd1ff025257</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='color']</value>
+      <webElementGuid>0a6b8578-8132-46f3-8882-b92d4bf232e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find the color of the button'])[1]/following::button[1]</value>
+      <webElementGuid>036303d0-6712-41ea-96f5-0db0879e9d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find Location'])[1]/following::button[1]</value>
+      <webElementGuid>bc0f8cc9-f2a6-40ee-b77a-771099a5ad86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find the height &amp; width of the button'])[1]/preceding::button[1]</value>
+      <webElementGuid>ce9544ef-129a-4a22-bc14-016a92eacc3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How tall &amp; fat I am?'])[1]/preceding::button[1]</value>
+      <webElementGuid>07cfacf7-8b81-4251-ad7d-1f8f6dd46fc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='What is my color?']/parent::*</value>
+      <webElementGuid>afd0987e-0a11-47a3-8129-bf6dbb17689f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>162f034c-afbf-4876-ba1d-65d035374217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'color' and (text() = 'What is my color?' or . = 'What is my color?')]</value>
+      <webElementGuid>6d6486c3-7d67-481c-b240-82a590756b4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
